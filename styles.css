@@ -1,0 +1,59 @@
+.regular-text {
+	color:#2d2b2c; 
+	font-size: 14px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.list-text {color:#848c8e;
+}
+
+.title-text {color:#d1518f;
+}
+
+body {background-color: #efd0df;
+}
+
+body {font-family: "Courier New";
+}
+
+.top-container {
+	background-color: #e6e7e7;
+width: 100%; 
+margin: :10px; 
+padding: 10px;
+text-align: center;
+}
+
+.right-container {}
+
+.portrait {
+	width: 200px; 
+	height: 150px;
+	margin:auto;
+	display: block;
+}
+
+.keywords {
+	width: 100%
+	margin:40px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.logo {
+	width: 100px; 
+	height: 75px;
+	margin:auto;
+	display: block;
+}
+
+.book {
+	width: 100px;
+	height: 150px;
+	margin:auto;
+	display: block;
+
+}
