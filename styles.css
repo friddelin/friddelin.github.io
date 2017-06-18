@@ -1,8 +1,8 @@
 .regular-text {
 	color:#2d2b2c; 
 	font-size: 14px;
-	margin-left: 130px;
-	margin-right: 130px;
+	margin-left: 100px;
+	margin-right: 100px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
@@ -109,12 +109,32 @@ display:inline;
 
 div img { display: inline; }
 
+.footer {
+  position: bottom;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #d4d6d8;
+  text-align: center;
+  font-family: "Helvetica Neue";
+  clear: left;
+
+}
+
+article {
+	float:left;
+	float: left;
+    width: 100%}
+
+}
+
 @media only screen and (min-width: 760px) {
 
 	.regular-text {
 		font-size: 16px;
-		margin-left: 75px;
-	    margin-right: 75px;
+		margin-left: 130px;
+	    margin-right: 130px;
 	    margin-top: 30px;
 	    margin-bottom: 30px;
 	}
